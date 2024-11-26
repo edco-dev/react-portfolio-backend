@@ -1,0 +1,33 @@
+# Node.js packages
+/node_modules/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build output
+/build/
+/dist/
+
+# Dependency directories
+/.pnp/
+.pnp.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# React Native
+*.sublime-workspace
+*.sublime-project
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.iml
